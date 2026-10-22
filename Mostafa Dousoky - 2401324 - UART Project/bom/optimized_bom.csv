@@ -1,0 +1,14 @@
+Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+AVR Controller,ATmega328P,1,Atmel,ATmega328P,https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf,220,220
+USB-to-TTL adapter,,1,,CP2102,,110,110
+Breadboard,BB-01 Breadboard 830 Tie Point,1,,,,35,35
+Jumper wires,Male-to-Male,16,,,,0.5,8
+Oscillator,16 MHz crystal,1,,,,3,3
+22 pF capacitor,,2,,,,0.5,1
+100 nF capacitor,,1,,,,1,1
+Resistor,10 kOhm resistor,1,,,,0.25,0.25
+Push buttons,Press 4pin 12x12x4 mm Tack Switch,2,,,,0.75,1.5
+LED,"Red LED, 5mm",1,,,,1,1
+Resistor,"220 Ohm, 0.25W",1,,,,0.25,0.25
+,,,,,,,
+Total,,,,,,,381

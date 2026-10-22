@@ -1,0 +1,9 @@
+Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+Arduino Uno,Arduino Uno Rev3,1,Arduino,A000066,https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf,450,400
+LED,"Red LED, 5mm",1,,,,1,1
+Resistor,"220 Ohm, 0.25W",1,,,,0.25,0.25
+Push Button,Press 4pin 12x12x4 mm Tack Switch,2,,,,0.75,1.5
+Jumper Wires,Male-to-Male,10,,,,0.5,5
+Breadboard,BB-801 Breadboard 400 Tie Point,1,,,,25,25
+,,,,,,,
+Total,,,,,,,432.75
